@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: auto
+title: CPP Notes
+description: C++ notes. 
+
+include: [".htaccess", ".md"]
